@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Pokemon website with PokeAPI
-- 🌱 I’m currently learning Javascript, HTML, CSS, Cypress and soon Vue
+- 🌱 I’m constantly learning Javascript, HTML, CSS, Cypress and Vue
 - 💬 Ask me about Sports, gaming, podcasts!
 - 📫 How to reach me: [Twitter](http://twitter.com/marcopianaroli) [LinkedIn](https://www.linkedin.com/in/marco-pianaroli96/)
 <!--
